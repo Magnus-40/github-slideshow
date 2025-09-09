@@ -1,0 +1,5 @@
+Word Processor,wordgrinder
+Spreadsheet,sc
+Calendar,cal
+Calculator,bc
+Filer,mc
